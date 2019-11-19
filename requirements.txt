@@ -1,0 +1,13 @@
+requests
+beautifulsoup4
+soupsieve
+pandas
+unidecode
+urllib3
+scrapy>=1.7.4
+jupyter
+twitter-scraper
+requests
+markovify
+jupyter
+jupyterlab
